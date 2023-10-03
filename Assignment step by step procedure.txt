@@ -1,0 +1,57 @@
+1st and 2nd and 3rd Image :
+
+=> i creaated one linux instance
+=> then in that instance i creaated 2 directories 
+=> then i created few files and also i insert some data
+
+4th image :
+
+=>in next step i install java in my virtual linux.
+
+5th image :
+
+=> then i also install git.
+
+6th image :
+
+=> i created image for instance then that reference i created AWS_assignment_2 instance
+
+7th image :
+
+=> i created 3 s3 buckets
+
+8th and 9th and 10th images :
+
+=>i add filles in to the those buckets.
+
+11th image :
+
+=> i created one role
+
+12th image :
+
+=>i update the instance with role
+
+13th image :
+
+=> i'm getting the buckets present in my s3.
+
+14th image :
+
+=>displaying the filles present in my bucket.
+
+15th image :
+
+=>copy the files present in the directory and past in to the those bucket.
+
+16th image :
+
+=> successfully updated in my bucket.
+
+17th image :
+
+=>repeting the task in each bucket.
+
+18th image :
+
+=>i perform some remove operation.
